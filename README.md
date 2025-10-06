@@ -13,7 +13,7 @@ Well, not really. To stop playing, you press the "stop" button (is the same butt
 
 The user closes the screen and opens "the app again" the next day. But, Apple does not really close screens, it just hides them. So you open the hidden screen and when you press the play button it continues at the time you stopped playing. Or some other things went wrong with the buffering.
 
-So you should dispose the screen, which older people has difficulties with and you get tired of the complaints. How can we fix this?
+So you should dispose the screen, which is quite difficult for older people and you get tired of the complaints. How can we fix this?
 
 
 # My solution
